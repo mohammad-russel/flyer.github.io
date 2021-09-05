@@ -209,7 +209,8 @@ button {
 }
 
 .contectform {
-    background-color: burlywood;
+    background-color: rgb(185, 250, 255);
+
     width: 100vw;
     height: 100vh;
     display: flex;
